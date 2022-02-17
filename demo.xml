@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<settings>
+  <ori></ori>
+  <proj></proj>
+  <build></build>
+  <sign></sign>
+  <type></type>
+  <!-- Apk Info : -->
+  <apkname></apkname>
+  <package></package>
+  <vername></vername>
+  <vercode></vercode>
+  <minsdk></minsdk>
+  <maxsdk></maxsdk>
+  <launch></launch>
+  <icon1></icon1>
+  <icon2></icon2>
+  <icon3></icon3>
+  <icon4></icon4>
+  <!-- System Info : -->
+  <lastmod></lastmod>
+  <tabindex></tabindex>
+  <line></line>
+  <dexdir></dexdir>
+  <p1></p1>
+  <p2></p2>
+  <p3></p3>
+  <p4></p4>
+  <p5></p5>
+  <p6></p6>
+  <p7></p7>
+  <p8></p8>
+  <p9></p9>
+  <p10></p10>
+  <p11></p11>
+  <p12></p12>
+  <dex></dex>
+  <pviewer></pviewer>
+  <output></output>
+  <editor></editor>
+  <propview></propview>
+  <solnctrl></solnctrl>  
+  <addproj></addproj>
+  <!-- ROM Info : -->
+  <model></model>
+  <arch></arch>
+  <romver></romver>
+  <api></api>
+  <root></root>
+  <busybox></busybox>
+  <sqlite></sqlite>
+  <intd></intd>
+  <adbremount></adbremount>
+  <sud></sud>
+  <instatus></instatus>
+</settings>
